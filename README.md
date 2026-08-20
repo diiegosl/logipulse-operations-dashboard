@@ -49,7 +49,7 @@ O objetivo do painel é fornecer previsibilidade financeira e rastreabilidade de
 
 - **Power BI Desktop:** Modelagem de dados, criação de medidas em DAX e desenvolvimento do layout.
 - **DAX (Data Analysis Expressions):** Cálculos de médias de Lead Time, somatórias de custos e agregações de status.
-- **Figma / Canva:** Tratamento de ativos visuais, ícones e composição de planos de fundo.
+- **Canva:** Tratamento de ativos visuais, ícones e composição de planos de fundo.
 
 ---
 
