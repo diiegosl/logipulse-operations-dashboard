@@ -14,10 +14,14 @@ O objetivo do painel é fornecer previsibilidade financeira e rastreabilidade de
 ## 📷 Screenshots do Dashboard
 
 ### Versão Dark Mode Elegance
-![LogiPulse Operations Dark Mode](docs/Dashboard_LogiPulse_Operations_modo_escuro.jpg)
+
+<img width="1424" height="799" alt="Dashboard LogiPulse Operations - imagem" src="https://github.com/user-attachments/assets/b066cccc-7cae-423b-b07e-9496cadc9785" />
+
 
 ### Versão Dark Mode Standard
-![LogiPulse Operations Standard](docs/Dashboard_LogiPulse_Operations.jpg)
+
+<img width="1425" height="799" alt="Dashboard LogiPulse Operations (modo escuro) - imagem" src="https://github.com/user-attachments/assets/1c9c16bf-e21e-4883-838a-a668ec538c64" />
+
 
 ---
 
