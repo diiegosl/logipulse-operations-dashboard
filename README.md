@@ -5,7 +5,7 @@
 ![Data Analytics](https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge)
 
 ## 📌 Visão Geral do Projeto
-Este projeto consiste no desenvolvimento de um painel gerencial interativo para a **LogiPulse Operations**, focado no monitoramento de custos logísticos, volumes de entrega e eficiências operacionais por Centro de Distribuição (CD) e região.
+Este projeto consiste no desenvolvimento de um painel gerencial interativo para a empresa fictícia **LogiPulse Operations**, focado no monitoramento de custos logísticos, volumes de entrega e eficiências operacionais por Centro de Distribuição (CD) e região.
 
 O objetivo do painel é fornecer previsibilidade financeira e rastreabilidade de KPIs essenciais de transporte e atendimento de pedidos.
 
