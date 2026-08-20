@@ -1,6 +1,7 @@
 # 🚚 Dashboard de Operações Logísticas - LogiPulse
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge)
 
 ## 📌 Visão Geral do Projeto
